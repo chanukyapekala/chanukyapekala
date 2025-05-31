@@ -1,26 +1,28 @@
 # Hello and Namaste! 🙏
 
-## 👨‍💻 Software & Data Engineer
+I'm **Chanukya (Chanu)** — a passionate Software & Data Engineer dedicated to building robust, scalable data systems and exploring the latest in data engineering.
 
-Passionate about building scalable data systems and solving real-world problems using distributed computing. I enjoy working with open-source tools, modern data platforms, and cloud infrastructure.
+---
 
-- 🔭 Current Focus: **Apache Spark**
-- 🧠 Learning: **Apache Iceberg**, **DuckDB** and **MLflow**
-- 🛠️ Interested in: Data engineering, cloud-native workflows, lakehouse architectures
-- 📬 Reach me at: [chanukya.pekala@gmail.com](mailto:chanukya.pekala@gmail.com)
+## 👨‍💻 About Me
+
+- **Current Focus:** Apache Spark
+- **Learning:** Apache Iceberg, DuckDB, MLflow
+- **Interests:** Data engineering, cloud-native workflows, lakehouse architectures
+- **Contact:** [chanukya.pekala@gmail.com](mailto:chanukya.pekala@gmail.com)
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**:  
-Python · Scala · SQL · Java · Bash
+**Languages:**  
+`Python` · `Scala` · `SQL` · `Java` · `Bash`
 
-**Data Engineering & Processing**:  
-Apache Spark · Delta Lake · Apache Flink · Apache Kafka · Apache Airflow · Hadoop · Databricks
+**Data Engineering & Processing:**  
+`Apache Spark` · `Delta Lake` · `Apache Flink` · `Apache Kafka` · `Apache Airflow` · `Hadoop` · `Databricks`
 
-**Infra & DevOps**:  
-Terraform · Docker · GitHub Actions · AWS
+**Infra & DevOps:**  
+`Terraform` · `Docker` · `GitHub Actions` · `AWS`
 
 ---
 
@@ -33,20 +35,26 @@ Terraform · Docker · GitHub Actions · AWS
 
 ## 🌍 Community & Events
 
-- Organizer at [DataTribe Meetup](https://www.meetup.com/datatribe-meetup-group/): Hosting and facilitating sessions on data engineering topics.
+- **Organizer:** [DataTribe Meetup](https://www.meetup.com/datatribe-meetup-group/)  
+  Hosting and facilitating sessions on data engineering topics.
 
 ---
 
-## 📁 Projects & Code
+## 📁 Projects & Open Source
 
-You can explore my open-source work, side projects, and experiments here on GitHub. Most of my repositories are focused on:
-
+Explore my open-source work, side projects, and experiments here on GitHub.  
+**Focus Areas:**
 - Data pipeline orchestration
-- Distributed systems and storage formats
+- Distributed systems & storage formats
 - Infrastructure-as-Code
 
 ---
 
-## 🔗 Find Me Online
+## 📢 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/chanukyapekala) · [Twitter/X](https://x.com/iChanukyaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanukyapekala)
+[![Twitter/X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://x.com/iChanukyaa)
+
+---
+
+> _“Building data systems that empower people to make better decisions.”_
