@@ -1,4 +1,4 @@
-# Chanukya Pekala
+# Hello and Namaste! 🙏
 
 ## 👨‍💻 Software & Data Engineer
 
