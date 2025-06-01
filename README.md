@@ -53,7 +53,7 @@ Explore my open-source work, side projects, and experiments here on GitHub.
 ## 📢 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanukyapekala)
-[![Twitter/X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://x.com/iChanukyaa)
+[![Twitter/X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://x.com/iChanukya)
 
 ---
 
